@@ -40,7 +40,7 @@
           v-for="element in list"
           :key="element.name"
         >
-          {{ element.name }}
+
         </div>
       </draggable>
     </div>
